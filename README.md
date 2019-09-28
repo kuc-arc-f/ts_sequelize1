@@ -12,7 +12,7 @@ typeScript + node/express + ,sequelize CRUD sample
 ***
 ### blog
 
-
+https://knaka0209.hatenablog.com/entry/ts_8_sequelize1
 
 ***
 
