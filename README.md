@@ -6,7 +6,10 @@
 
  date    : 2019/09/28
 
+ update : 2020/07/20
+
 ***
+
 typeScript + node/express + ,sequelize CRUD sample
 
 ***
